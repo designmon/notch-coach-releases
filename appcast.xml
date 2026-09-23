@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Notch Coach</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Wed, 23 Sep 2026 09:57:11 +0200</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/designmon/notch-coach-releases/releases/download/v0.2.0/NotchCoach-0.2.0.zip" length="10307123" type="application/octet-stream" sparkle:edSignature="d1NvOUHil0eeXcbEeVJeALdp/PahekfYOLNXqFCQDaUz2sR2W+eUUGYnziO3TNtVN/sCMvYIn3pOSDyTuPGbCg=="/>
+        </item>
+    </channel>
+</rss>
