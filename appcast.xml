@@ -3,13 +3,13 @@
     <channel>
         <title>Notch Coach</title>
         <item>
-            <title>0.5.0</title>
-            <pubDate>Wed, 23 Sep 2026 10:37:19 +0200</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <title>0.6.0</title>
+            <pubDate>Wed, 23 Sep 2026 16:45:05 +0200</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/designmon/notch-coach-releases/releases/download/v0.5.0/NotchCoach-0.5.0.zip" length="10361126" type="application/octet-stream" sparkle:edSignature="CMGX+QJeLhMF9zzvL1U2NOBy+VuuuRFsiKb5c6AICbXkHbBQ8j784L+hb7f/saw8TaJMJ3eiHIAJoX4Q/Zc5Bw=="/>
+            <enclosure url="https://github.com/designmon/notch-coach-releases/releases/download/v0.6.0/NotchCoach-0.6.0.zip" length="10381006" type="application/octet-stream" sparkle:edSignature="Lx+Z/9zDF/1YaFg5M5f0dq4Max8KCeWK0w5IXyC4nokBnLPNID25Cg4b3FLzlBqb8u6e0xh4t9Kkr5dsQxq6DQ=="/>
         </item>
     </channel>
 </rss>
